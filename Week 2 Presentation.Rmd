@@ -1,7 +1,7 @@
 ---
 title: "MODIS"
 subtitle: "Moderate Resolution Imaging Spectroradiometer"
-author: "James Tan"
+author: "James Tan Song En"
 output:
   xaringan::moon_reader:
     lib_dir: libs
